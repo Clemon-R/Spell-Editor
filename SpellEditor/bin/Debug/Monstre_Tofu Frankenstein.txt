@@ -1,0 +1,7 @@
+//Monstre Tofu Frankenstein
+SQL
+DELETE FROM monsters WHERE id='2776';
+INSERT INTO monsters(id,name,gfxID,align,capturable,AI_Type,minKamas,maxKamas,grades,stats,spells,pdvs,points,inits,exps) VALUES ('2776','Tofu Frankenstein','501','-1','0','0','0','0','1@0;0;0;0;0;0;0','0,0,0,0,0','','10','6;5','0','0');
+
+SWF
+M[2776] = {n: "Tofu Frankenstein", b: -1, a: -1, k: false, g: 501, g1: {r: [0, 0, 0, 0, 0, 0, 0], l: 1}};

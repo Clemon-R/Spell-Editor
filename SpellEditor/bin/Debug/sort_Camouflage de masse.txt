@@ -1,0 +1,7 @@
+//Sort Camouflage de masse
+SQL
+DELETE FROM sorts WHERE id='8043';
+INSERT INTO sorts(id,nom,sprite,spriteInfos,effectTarget,lvl1,lvl2,lvl3,lvl4,lvl5,lvl6) VALUES ('8043', 'Camouflage de masse', '402', '11,0,20', '', '150;-1;-1;-1;4;0,-1, 4, 0, 0, 0, 75, false, false, false, false, 0, 1, 0, 10, Pa, -1, 18; 19; 3; 1; 41, 0, false', '150;-1;-1;-1;4;0,-1, 4, 0, 0, 0, 75, false, false, false, false, 0, 1, 0, 10, Pa, -1, 18; 19; 3; 1; 41, 0, false', '150;-1;-1;-1;5;0,-1, 4, 0, 0, 0, 75, false, false, false, false, 0, 1, 0, 10, Pa, -1, 18; 19; 3; 1; 41, 0, false', '150;-1;-1;-1;5;0,-1, 4, 0, 0, 0, 75, false, false, false, false, 0, 1, 0, 10, Pa, -1, 18; 19; 3; 1; 41, 0, false', '150;-1;-1;-1;5;0,-1, 4, 0, 0, 0, 75, false, false, false, false, 0, 1, 0, 9, Pa, -1, 18; 19; 3; 1; 41, 0, false', '-1');
+
+SWF
+S[8043] = {n: "Camouflage de masse", d: "", l1: [[[150, null, null, null, 4, 0]], [], 4, 0, 0, 0, 75, false, false, false, false, 0, 1, 0, 10, "Pa", [null], [18, 19, 3, 1, 41], 0, false], l2: [[[150, null, null, null, 4, 0]], [], 4, 0, 0, 0, 75, false, false, false, false, 0, 1, 0, 10, "Pa", [null], [18, 19, 3, 1, 41], 0, false], l3: [[[150, null, null, null, 5, 0]], [], 4, 0, 0, 0, 75, false, false, false, false, 0, 1, 0, 10, "Pa", [null], [18, 19, 3, 1, 41], 0, false], l4: [[[150, null, null, null, 5, 0]], [], 4, 0, 0, 0, 75, false, false, false, false, 0, 1, 0, 10, "Pa", [null], [18, 19, 3, 1, 41], 0, false], l5: [[[150, null, null, null, 5, 0]], [], 4, 0, 0, 0, 75, false, false, false, false, 0, 1, 0, 9, "Pa", [null], [18, 19, 3, 1, 41], 0, false]};

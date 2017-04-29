@@ -1,0 +1,7 @@
+//Sort Naissance de Wakfu
+SQL
+DELETE FROM sorts WHERE id='12008';
+INSERT INTO sorts(id,nom,sprite,spriteInfos,effectTarget,lvl1,lvl2,lvl3,lvl4,lvl5,lvl6) VALUES ('12008', 'Naissance de Wakfu', '-1', '0,0,0', '', '181;80036;1;-1;0;0,-1, 3, 1, 1, 0, 0, false, false, true, false, 0, 1, 0, 5, Pa, 56, 18;19;3;1;41, 1, false', '181;80036;2;-1;0;0,-1, 3, 1, 1, 0, 0, false, false, true, false, 0, 1, 0, 5, Pa, 56, 18;19;3;1;41, 1, false', '181;80036;3;-1;0;0,-1, 3, 1, 1, 0, 0, false, false, true, false, 0, 1, 0, 5, Pa, 56, 18;19;3;1;41, 1, false', '181;80036;4;-1;0;0,-1, 3, 1, 1, 0, 0, false, false, true, false, 0, 1, 0, 5, Pa, 56, 18;19;3;1;41, 1, false', '181;80036;5;-1;0;0,-1, 3, 1, 1, 0, 0, false, false, true, false, 0, 1, 0, 5, Pa, 56, 18;19;3;1;41, 1, false', '-1');
+
+SWF
+S[12008] = {n: "Naissance de Wakfu", d: "Invoque un monstre qui debuf yugo.", l1: [[[181, 80036, 1, null, 0, 0]], null, 3, 1, 1, 0, 0, false, false, true, false, 0, 1, 0, 5, "Pa", [], [18,19,3,1,41], 1, false], l2: [[[181, 80036, 2, null, 0, 0]], null, 3, 1, 1, 0, 0, false, false, true, false, 0, 1, 0, 5, "Pa", [], [18,19,3,1,41], 1, false], l3: [[[181, 80036, 3, null, 0, 0]], null, 3, 1, 1, 0, 0, false, false, true, false, 0, 1, 0, 5, "Pa", [], [18,19,3,1,41], 1, false], l4: [[[181, 80036, 4, null, 0, 0]], null, 3, 1, 1, 0, 0, false, false, true, false, 0, 1, 0, 5, "Pa", [], [18,19,3,1,41], 1, false], l5: [[[181, 80036, 5, null, 0, 0]], null, 3, 1, 1, 0, 0, false, false, true, false, 0, 1, 0, 5, "Pa", [], [18,19,3,1,41], 1, false]};

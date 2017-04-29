@@ -1,0 +1,64 @@
+0|Neutre
+1|Saoul
+2|Chercheur d'ames
+3|Porteur
+4|Peureux
+5|Desoriente
+6|Enracine
+7|Pesanteur
+8|Porte
+9|Motivation Sylvestre
+10|Apprivoisement
+11|Chevauchant
+12|Pas Sage
+13|Vraiment pas sage
+14|En neige
+15|Eveille
+16|Fragilise
+17|Separe
+18|Gele
+19|Fissure
+26|Endormi
+27|Leopardo
+28|Libre
+29|Glyphe impaire
+30|Glyphe pair
+31|Encre primaire
+32|Encre secondaire
+33|Encre tertidaire
+34|Encre quaternaire
+35|Envie de tuer
+36|Envie de paralyser
+37|Envie de maudire
+38|Envie d'empoisonner
+39|Flou
+40|Corrompu
+41|Silencieux
+42|Affaibli
+43|OVNI
+44|Pas contente
+46|Contente
+47|Mauvaise humeur
+48|Confus
+49|Goulifie
+50|Altruiste
+51|Chatiment agile
+52|Chatiment ose
+53|Chatiment spirituel
+54|Catiment vitalesque
+55|Retraite
+56|Invulnerable
+57|Compte à rebours - 2
+58|Compte à rebours - 1
+59|Fremit
+60|Devoue
+61|Bagarreur
+62|Invulnerable
+63|Invertase
+64|Gloursculade
+65|Elvéole
+66|Vulnérable
+67|Invulnérable
+68|Vulnérable
+69|Invulnérable
+70|Vulnérable

@@ -1,0 +1,76 @@
+﻿Vol de vie Eau|91|true:Dégat Mininimum,true:Dégat Maximum,true|false|false,null
+Vol de vie Terre|92|true:Dégat Mininimum,true:Dégat Maximum,true|false|false,null
+Vol de vie Air|93|true:Dégat Mininimum,true:Dégat Maximum,true|false|false,null
+Vol de vie Feu|94|true:Dégat Mininimum,true:Dégat Maximum,true|false|false,null
+Vol de vie Neutre|95|true:Dégat Mininimum,true:Dégat Maximum,true|false|false,null
+Dommage Eau|96|true:Dégat Mininimum,true:Dégat Maximum,true|false|false,null
+Dommage Terre|97|true:Dégat Mininimum,true:Dégat Maximum,true|false|false,null
+Dommage Air|98|true:Dégat Mininimum,true:Dégat Maximum,true|false|false,null
+Dommage Feu|99|true:Dégat Mininimum,true:Dégat Maximum,true|false|false,null
+Dommage Neutre|100|true:Dégat Mininimum,true:Dégat Maximum,true|false|false,null
+Dommage Reduit|105|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Dommage Fixe|406|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Malus de PO|116|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Malus de EC|122|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Malus de PA|101|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Malus de PM|127|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Malus de Prospection|177|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Malus d'equive perte pa|162|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Malus d'equive perte pm|163|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Malus de %Vitalité|305|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Bonnus de PA|111|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Bonnus de PA|120|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Bonnus de PM|128|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Bonnus de Dommage|112|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Bonnus pourcent de Dommage|138|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Bonus de PO|117|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Bonus de Force|118|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Bonus de Agilité|119|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Bonus de Dommage|121|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Bonus de Chance|123|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Bonus de Sagesse|124|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Bonus de Vitalité|125|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Bonus de Intelligence|126|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Bonus de Prospection|176|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Bonus d'equive perte pa|160|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Bonus d'equive perte pm|161|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Bonus de %Vitalité|300|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Résistance Terre|210|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Résistance Eau|211|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Résistance Air|212|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Résistance Feu|213|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Résistance Neutre|214|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Faiblesse Terre|215|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Faiblesse Eau|216|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Faiblesse Air|217|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Faiblesse Feu|218|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Faiblesse Neutre|219|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Renvoie de Sort|106|false:Nombre Mininimum,true:Sort Level,false|true|false,null
+Renvoie de Dommage|107|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Poison par PA utilisé|131|true:Dégat Mininimum,true:Dégat Maximum,true|false|false,null
+Vol de Kamas|130|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Vole de PM|77|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Vole de PA|84|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Soigne|108|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Soigne Fixe|407|true:Nombre Mininimum,true:Nombre Maximum,true|false|false,null
+Dommage en % de vie neutre|89|true:Pourcent de vie,false:Dégat Maximum,false|false|false,null
+Multiplie les Dommage|114|true:Multiplié par,false:Nombre Maximum,false|false|false,null
+Avancer|2|true:Nombre de case a avancer,false:Max,false|true|false,null
+Reculer|3|true:Nombre de case a reculer,false:Max,false|true|false,null
+Pousser|5|true:Nombre de case a pousser,false:Max,false|true|false,null
+Attirer|6|true:Nombre de case a attirer,false:Max,false|true|false,null
+Téléporter|4|true:Portée maximum,false:Max,false|true|false,null
+Dommage ou Soin 1/2(chance eca)|79|true:Dommage foit ,true:Vie foit ,false|true|false,1 chance sur
+Esquivé une attack en reculent|9|true:Dommage Maximum pour effectuer l'action,true:Nombre de case a reculer,false|true|false,null
+Changer d'apparence|149|false:Nombre Mininimum,false:Nombre Maximum,false|true|true,Id de la morph
+Désenvouté|132|false:Nombre Mininimum,false:Nombre Maximum,false|true|false,null
+Tuer la cible|141|false:Nombre Mininimum,false:Nombre Maximum,false|true|false,null
+Passer le tour|140|false:Nombre Mininimum,false:Nombre Maximum,false|true|false,null
+Afficher les piége|202|false:Nombre Mininimum,false:Nombre Maximum,false|true|false,null
+Pousser jusqu'a la case visé|783|false:Nombre Mininimum,false:Nombre Maximum,false|true|false,null
+Invisibilité|150|false:Nombre Mininimum,false:Nombre Maximum,false|true|false,null
+Invocation|181|true:Id du mobs,true:Level du mobs,false|true|false,null
+Invocation Static|185|true:Id du mobs,true:Level du mobs,false|true|false,null
+Echange de place|8|false:Id du mobs,false:Level du mobs,false|true|false,null
+Ajouter un etat|950|false:Id du mobs,false:Level du mobs,false|true|true,Etat
+Retirer un etat|951|false:Id du mobs,false:Level du mobs,false|true|true,Etat

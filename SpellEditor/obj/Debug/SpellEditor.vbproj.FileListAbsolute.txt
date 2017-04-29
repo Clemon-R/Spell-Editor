@@ -1,0 +1,55 @@
+c:\users\raphael\documents\visual studio 2012\Projects\SpellEditor\SpellEditor\bin\Debug\MySql.Data.dll
+c:\users\raphael\documents\visual studio 2012\Projects\SpellEditor\SpellEditor\obj\Debug\SpellEditor.vbprojResolveAssemblyReference.cache
+c:\users\raphael\documents\visual studio 2012\Projects\SpellEditor\SpellEditor\obj\Debug\SpellEditor.vbproj.GenerateResource.Cache
+C:\Users\Raphael\Documents\Visual Studio 2012\Projects\SpellEditor\SpellEditor\bin\Debug\SwfDotNet.IO.dll
+C:\Users\Raphael\Documents\Visual Studio 2012\Projects\SpellEditor\SpellEditor\bin\Debug\SharpZipLib.dll
+C:\Users\Raphael\Documents\Visual Studio 2012\Projects\SpellEditor\SpellEditor\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Raphael\Documents\Visual Studio 2012\Projects\SpellEditor\SpellEditor\bin\Debug\ClemEditor.exe.config
+C:\Users\Raphael\Documents\Visual Studio 2012\Projects\SpellEditor\SpellEditor\bin\Debug\ClemEditor.exe
+C:\Users\Raphael\Documents\Visual Studio 2012\Projects\SpellEditor\SpellEditor\bin\Debug\ClemEditor.pdb
+C:\Users\Raphael\Documents\Visual Studio 2012\Projects\SpellEditor\SpellEditor\bin\Debug\ClemEditor.xml
+C:\Users\Raphael\Documents\Visual Studio 2012\Projects\SpellEditor\SpellEditor\bin\Debug\fr-FR\ClemEditor.resources.dll
+C:\Users\Raphael\Documents\Visual Studio 2012\Projects\SpellEditor\SpellEditor\obj\Debug\ClemEditor.Accueil.resources
+C:\Users\Raphael\Documents\Visual Studio 2012\Projects\SpellEditor\SpellEditor\obj\Debug\ClemEditor.Form1.resources
+C:\Users\Raphael\Documents\Visual Studio 2012\Projects\SpellEditor\SpellEditor\obj\Debug\ClemEditor.Generer.resources
+C:\Users\Raphael\Documents\Visual Studio 2012\Projects\SpellEditor\SpellEditor\obj\Debug\ClemEditor.Mobs.resources
+C:\Users\Raphael\Documents\Visual Studio 2012\Projects\SpellEditor\SpellEditor\obj\Debug\ClemEditor.Resources.resources
+C:\Users\Raphael\Documents\Visual Studio 2012\Projects\SpellEditor\SpellEditor\obj\Debug\ClemEditor.Form1.fr-FR.resources
+C:\Users\Raphael\Documents\Visual Studio 2012\Projects\SpellEditor\SpellEditor\obj\Debug\fr-FR\ClemEditor.resources.dll
+C:\Users\Raphael\Documents\Visual Studio 2012\Projects\SpellEditor\SpellEditor\obj\Debug\ClemEditor.exe
+C:\Users\Raphael\Documents\Visual Studio 2012\Projects\SpellEditor\SpellEditor\obj\Debug\ClemEditor.xml
+C:\Users\Raphael\Documents\Visual Studio 2012\Projects\SpellEditor\SpellEditor\obj\Debug\ClemEditor.pdb
+C:\Users\Raphael\Documents\Visual Studio 2012\Projects\SpellEditor\SpellEditor\obj\Debug\ClemEditor.Genere2.resources
+G:\SpellEditor\SpellEditor\bin\Debug\ClemEditor.exe.config
+G:\SpellEditor\SpellEditor\obj\Debug\ClemEditor.exe
+G:\SpellEditor\SpellEditor\obj\Debug\ClemEditor.xml
+G:\SpellEditor\SpellEditor\obj\Debug\ClemEditor.pdb
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\bin\Debug\ClemEditor.exe.config
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\obj\Debug\ClemEditor.exe
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\obj\Debug\ClemEditor.xml
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\obj\Debug\ClemEditor.pdb
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\bin\Debug\ClemEditor.exe
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\bin\Debug\ClemEditor.pdb
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\bin\Debug\ClemEditor.xml
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\bin\Debug\fr-FR\ClemEditor.resources.dll
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\bin\Debug\MySql.Data.dll
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\bin\Debug\SharpZipLib.dll
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\bin\Debug\SwfDotNet.IO.dll
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\obj\Debug\SpellEditor.vbprojResolveAssemblyReference.cache
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\obj\Debug\ClemEditor.Accueil.resources
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\obj\Debug\ClemEditor.Form1.resources
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\obj\Debug\ClemEditor.Genere2.resources
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\obj\Debug\ClemEditor.Generer.resources
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\obj\Debug\ClemEditor.Mobs.resources
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\obj\Debug\ClemEditor.Resources.resources
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\obj\Debug\ClemEditor.Form1.fr-FR.resources
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\obj\Debug\SpellEditor.vbproj.GenerateResource.Cache
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\obj\Debug\fr-FR\ClemEditor.resources.dll
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\obj\Debug\ClemEditor.license.resources
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\obj\Debug\ClemEditor.etat.resources
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\obj\Debug\ClemEditor.Etat_ID.resources
+C:\Users\raphael\OneDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\bin\Debug\ClemEditor.exe.config
+C:\Users\raphael\OneDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\obj\Debug\ClemEditor.exe
+C:\Users\raphael\OneDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\obj\Debug\ClemEditor.xml
+C:\Users\raphael\OneDrive\Documents\APPLICATION\VB.NET\SpellEditor\SpellEditor\obj\Debug\ClemEditor.pdb

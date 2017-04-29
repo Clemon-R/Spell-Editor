@@ -1,0 +1,8 @@
+//Sort Reuche
+SQL
+DELETE FROM sorts WHERE id='6004';
+INSERT INTO sorts(id,nom,sprite,spriteInfos,effectTarget,lvl1,lvl2,lvl3,lvl4,lvl5,lvl6) VALUES ('6004', 'Reuche', '402', '0,0,0', '', '2;1;-1;-1;0;0,-1, 2, 2, 2, 0, 0, true, true, false, false, 0, 0, 1, 0, Pa, -1, 18; 19; 3; 1; 41, 6, false', '2;2;-1;-1;0;0,-1, 2, 2, 3, 0, 0, true, true, false, false, 0, 0, 1, 0, Pa, -1, 18; 19; 3; 1; 41, 6, false', '2;3;-1;-1;0;0,-1, 2, 2, 4, 0, 0, true, true, false, false, 0, 0, 1, 0, Pa, -1, 18; 19; 3; 1; 41, 6, false', '2;4;-1;-1;0;0,-1, 2, 2, 5, 0, 0, true, true, false, false, 0, 0, 1, 0, Pa, -1, 18; 19; 3; 1; 41, 6, false', '2;5;-1;-1;0;0,-1, 2, 2, 6, 0, 0, true, true, false, false, 0, 0, 1, 0, Pa, -1, 18; 19; 3; 1; 41, 6, false', '2;6;-1;-1;0;0,-1, 2, 2, 7, 0, 0, true, true, false, false, 0, 0, 1, 0, Pa, -1, 18, 19, false');
+
+SWF
+S[6004] = {n: "Reuche", d: "Rapproche le lanceur de la cible.
+", l1: [[[2, 1, null, null, 0, 0]], null, 2, 2, 2, 0, 0, true, true, false, false, 0, 0, 1, 0, "Pa", [], [18, 19, 3, 1, 41], 6, false], l2: [[[2, 2, null, null, 0, 0]], null, 2, 2, 3, 0, 0, true, true, false, false, 0, 0, 1, 0, "Pa", [], [18, 19, 3, 1, 41], 6, false], l3: [[[2, 3, null, null, 0, 0]], null, 2, 2, 4, 0, 0, true, true, false, false, 0, 0, 1, 0, "Pa", [], [18, 19, 3, 1, 41], 6, false], l4: [[[2, 4, null, null, 0, 0]], null, 2, 2, 5, 0, 0, true, true, false, false, 0, 0, 1, 0, "Pa", [], [18, 19, 3, 1, 41], 6, false], l5: [[[2, 5, null, null, 0, 0]], null, 2, 2, 6, 0, 0, true, true, false, false, 0, 0, 1, 0, "Pa", [], [18, 19, 3, 1, 41], 6, false], l6: [[[2, 6, null, null, 0, 0]], null, 2, 2, 7, 0, 0, true, true, false, false, 0, 0, 1, 0, "Pa", [], [18], 19, false]};

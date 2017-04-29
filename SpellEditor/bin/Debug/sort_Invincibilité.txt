@@ -1,0 +1,7 @@
+//Sort Invincibilité
+SQL
+DELETE FROM sorts WHERE id='12009';
+INSERT INTO sorts(id,nom,sprite,spriteInfos,effectTarget,lvl1,lvl2,lvl3,lvl4,lvl5,lvl6) VALUES ('12009', 'Invincibilité', '-1', '0,0,0', '32', '950;-1;-1;56;999;0,-1, 0, 0, 0, 0, 0, false, false, false, false, 0, 0, 0, 0, Pa, -1, 18;19;3;1;41;56, 1, false', '950;-1;-1;56;999;0,-1, 0, 0, 0, 0, 0, false, false, false, false, 0, 0, 0, 0, Pa, -1, 18;19;3;1;41;56, 1, false', '950;-1;-1;56;999;0,-1, 0, 0, 0, 0, 0, false, false, false, false, 0, 0, 0, 0, Pa, -1, 18;19;3;1;41;56, 1, false', '950;-1;-1;56;999;0,-1, 0, 0, 0, 0, 0, false, false, false, false, 0, 0, 0, 0, Pa, -1, 18;19;3;1;41;56, 1, false', '950;-1;-1;56;999;0,-1, 0, 0, 0, 0, 0, false, false, false, false, 0, 0, 0, 0, Pa, -1, 18;19;3;1;41;56, 1, false', '-1');
+
+SWF
+S[12009] = {n: "Invincibilité", d: "", l1: [[[950, null, null, 56, 999, 0]], null, 0, 0, 0, 0, 0, false, false, false, false, 0, 0, 0, 0, "Pa", [], [18,19,3,1,41,56], 1, false], l2: [[[950, null, null, 56, 999, 0]], null, 0, 0, 0, 0, 0, false, false, false, false, 0, 0, 0, 0, "Pa", [], [18,19,3,1,41,56], 1, false], l3: [[[950, null, null, 56, 999, 0]], null, 0, 0, 0, 0, 0, false, false, false, false, 0, 0, 0, 0, "Pa", [], [18,19,3,1,41,56], 1, false], l4: [[[950, null, null, 56, 999, 0]], null, 0, 0, 0, 0, 0, false, false, false, false, 0, 0, 0, 0, "Pa", [], [18,19,3,1,41,56], 1, false], l5: [[[950, null, null, 56, 999, 0]], null, 0, 0, 0, 0, 0, false, false, false, false, 0, 0, 0, 0, "Pa", [], [18,19,3,1,41,56], 1, false]};

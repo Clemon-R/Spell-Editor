@@ -1,0 +1,7 @@
+//Sort Invocation d'Arakne
+SQL
+DELETE FROM sorts WHERE id='214';
+INSERT INTO sorts(id,nom,sprite,spriteInfos,effectTarget,lvl1,lvl2,lvl3,lvl4,lvl5,lvl6) VALUES ('214', 'Invocation d'Arakne', '0', '10,1,1', '', '181;52;1;-1;0;0,-1, 2, 1, 1, 0, 0, false, true, true, false, 0, 1, 0, 5, Pa, -1, 18;19;3;1;41, 0, false', '181;52;2;-1;0;0,-1, 2, 1, 1, 0, 0, false, true, true, false, 0, 1, 0, 5, Pa, -1, 18;19;3;1;41, 0, false', '181;52;3;-1;0;0,-1, 2, 1, 1, 0, 0, false, true, true, false, 0, 1, 0, 5, Pa, -1, 18;19;3;1;41, 0, false', '181;52;4;-1;0;0,-1, 2, 1, 1, 0, 0, false, true, true, false, 0, 1, 0, 4, Pa, -1, 18;19;3;1;41, 0, false', '181;52;5;-1;0;0,-1, 2, 1, 1, 0, 0, false, true, true, false, 0, 1, 0, 3, Pa, -1, 18;19;3;1;41, 0, false', '-1');
+
+SWF
+S[214] = {n: "Invocation d'Arakne", d: "", l1: [[[181, 52, 1, null, 0, 0]], null, 2, 1, 1, 0, 0, false, true, true, false, 0, 1, 0, 5, "Pa", [], [18,19,3,1,41], 0, false], l2: [[[181, 52, 2, null, 0, 0]], null, 2, 1, 1, 0, 0, false, true, true, false, 0, 1, 0, 5, "Pa", [], [18,19,3,1,41], 0, false], l3: [[[181, 52, 3, null, 0, 0]], null, 2, 1, 1, 0, 0, false, true, true, false, 0, 1, 0, 5, "Pa", [], [18,19,3,1,41], 0, false], l4: [[[181, 52, 4, null, 0, 0]], null, 2, 1, 1, 0, 0, false, true, true, false, 0, 1, 0, 4, "Pa", [], [18,19,3,1,41], 0, false], l5: [[[181, 52, 5, null, 0, 0]], null, 2, 1, 1, 0, 0, false, true, true, false, 0, 1, 0, 3, "Pa", [], [18,19,3,1,41], 0, false]};

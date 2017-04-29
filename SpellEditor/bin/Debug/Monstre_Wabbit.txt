@@ -1,0 +1,7 @@
+//Monstre Wabbit
+SQL
+DELETE FROM monsters WHERE id='2778';
+INSERT INTO monsters(id,name,gfxID,align,capturable,AI_Type,minKamas,maxKamas,grades,stats,spells,pdvs,points,inits,exps) VALUES ('2778','Wabbit','1711','-1','1','1','1','10','1@0;0;0;0;0;0;0','0,0,0,0,1000','2176@1','10','4;4','1000','0');
+
+SWF
+M[2778] = {n: "Wabbit", b: -1, a: -1, k: false, g: 1711, g1: {r: [0, 0, 0, 0, 0, 0, 0], l: 1}};

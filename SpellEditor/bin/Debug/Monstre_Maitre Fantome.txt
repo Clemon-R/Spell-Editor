@@ -1,0 +1,7 @@
+//Monstre Maitre Fantome
+SQL
+DELETE FROM monsters WHERE id='2780';
+INSERT INTO monsters(id,name,gfxID,align,capturable,AI_Type,minKamas,maxKamas,grades,stats,spells,pdvs,points,inits,exps) VALUES ('2780','Maitre Fantome','1713','-1','1','2','1','10','3@0;0;0;0;0;0;0','0,0,0,0,1200','2178@1;2179@1','20','4;3','1200','0');
+
+SWF
+M[2780] = {n: "Maitre Fantome", b: -1, a: -1, k: false, g: 1713, g1: {r: [0, 0, 0, 0, 0, 0, 0], l: 3}};

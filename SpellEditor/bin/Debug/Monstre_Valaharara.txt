@@ -1,0 +1,7 @@
+//Monstre Valaharara
+SQL
+DELETE FROM monsters WHERE id='80030';
+INSERT INTO monsters(id,name,gfxID,align,capturable,AI_Type,minKamas,maxKamas,grades,stats,spells,pdvs,points,inits,exps) VALUES ('80030','Valaharara','10102','-1','1','1','1','5000','','','','','','','');
+
+SWF
+M[80030] = {n: "Valaharara", g: 10102, };

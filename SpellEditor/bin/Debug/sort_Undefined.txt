@@ -1,0 +1,7 @@
+//Sort Undefined
+SQL
+DELETE FROM sorts WHERE id='0';
+INSERT INTO sorts(id,nom,sprite,effectTarget,lvl1,lvl2,lvl3,lvl4,lvl5,lvl6) VALUES ('0', 'Undefined', '-1', '0,0,0', '217;10;22;-1;0;0;1d13+9,, 0, 0, 0, 0, 0, false, false, false, false, 0, 0, 0, 0, Ld, -1, 18; 19; 3; 1; 41, 0, false', '97;10;-1;-1;0;0;0d0+10|97;10;50;-1;0;0;1d41+9,97;10;50;-1;0;0;1d41+9, 3, 1, 10, 50, 0, true, true, false, true, 0, 2, 1, 0, LdLdLd, -1, 18; 19; 3; 1; 41, 0, false', ',, 0, 0, 0, 0, 0, false, false, false, false, 0, 0, 0, 0, , -1, 18; 19; 3; 1; 41, 0, false', ',, 0, 0, 0, 0, 0, false, false, false, false, 0, 0, 0, 0, , -1, 18; 19; 3; 1; 41, 0, false', ',, 0, 0, 0, 0, 0, false, false, false, false, 0, 0, 0, 0, , -1, 18; 19; 3; 1; 41, 0, false', '-1');
+
+SWF
+S[0] = {n: "Undefined", d: "test", l1: [[[217, 10, 22, null, 0, 0, "1d13+9"]], [], 0, 0, 0, 0, 0, false, false, false, false, 0, 0, 0, 0, "Ld", [null], [18, 19, 3, 1, 41], 0, false], l2: [[[97, 10, null, null, 0, 0, "0d0+10"]|[97, 10, 50, null, 0, 0, "1d41+9"]], [[97, 10, 50, null, 0, 0, "1d41+9"]], 3, 1, 10, 50, 0, true, true, false, true, 0, 2, 1, 0, "LdLdLd", [null], [18, 19, 3, 1, 41], 0, false], l3: [[], [], 0, 0, 0, 0, 0, false, false, false, false, 0, 0, 0, 0, "", [null], [18, 19, 3, 1, 41], 0, false], l4: [[], [], 0, 0, 0, 0, 0, false, false, false, false, 0, 0, 0, 0, "", [null], [18, 19, 3, 1, 41], 0, false], l5: [[], [], 0, 0, 0, 0, 0, false, false, false, false, 0, 0, 0, 0, "", [null], [18, 19, 3, 1, 41], 0, false]};

@@ -1,0 +1,7 @@
+//Monstre Crocodile
+SQL
+DELETE FROM monsters WHERE id='2777';
+INSERT INTO monsters(id,name,gfxID,align,capturable,AI_Type,minKamas,maxKamas,grades,stats,spells,pdvs,points,inits,exps) VALUES ('2777','Crocodile','1710','-1','1','1','1','10','1@0;0;0;0;0;0;0','0,0,0,0,1000','2175@1','10','4;4','1000','0');
+
+SWF
+M[2777] = {n: "Crocodile", b: -1, a: -1, k: false, g: 1710, g1: {r: [0, 0, 0, 0, 0, 0, 0], l: 1}};

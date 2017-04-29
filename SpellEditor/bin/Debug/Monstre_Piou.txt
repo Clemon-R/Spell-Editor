@@ -1,0 +1,7 @@
+//Monstre Piou
+SQL
+DELETE FROM monsters WHERE id='2779';
+INSERT INTO monsters(id,name,gfxID,align,capturable,AI_Type,minKamas,maxKamas,grades,stats,spells,pdvs,points,inits,exps) VALUES ('2779','Piou','1712','-1','1','2','1','10','2@0;0;0;0;0;0;0','0,0,0,0,1100','2177@1','15','4;4','1100','0');
+
+SWF
+M[2779] = {n: "Piou", b: -1, a: -1, k: false, g: 1712, g1: {r: [0, 0, 0, 0, 0, 0, 0], l: 2}};
